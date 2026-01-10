@@ -1,2 +1,2 @@
-# Projects
-A portfolio containing documentation on work that I have done.
+# Sun Reflector
+Tracks the Sun and reflects sunlight onto a fixed target.
